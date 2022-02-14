@@ -46,9 +46,9 @@
 #	sudo w (Show who is logged on and what they are doing)
 #	sudo users (print the user names of users currently logged in to the current host)
 #	sudo last -a | grep 'still logged in' (show a listing of last logged in users)
-#	sudo ss | grep -i ssh (another utility to investigate sockets)
+#	sudo ss | grep -i ssh(another utility to investigate sockets)
 #	sudo netstat -tnpa | grep 'ESTABLISHED.*sshd' (show networking connection)
-#	sudo ps -axfj | grep sshd (report a snapshot of the current processes)
+#	sudo ps -axfj | grep  sshd (report a snapshot of the current processes)
 #
 # Gerando os par de chaves Pública/Privadas utilizando o GNU/Linux
 # Linux Mint Terminal: Ctrl+Alt+T
